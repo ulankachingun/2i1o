@@ -1,3 +1,17 @@
-p{
+*{
     font-family: rubik;
+    list-style-type: none;
 }
+
+/* .container{
+    height: 5vh;
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+
+.button{
+    display: flex;
+    justify-content: space-between;
+} */
